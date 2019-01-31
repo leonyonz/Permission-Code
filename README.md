@@ -1,7 +1,7 @@
 # Permission-Code
-a list of permission code in linux
+a list of permission code in linux.
 
-Permission numbers
+Permission numbers:
 
     0 = ---
 
